@@ -1,2 +1,2 @@
 # Javascript-project
-This  repo consist of  Javascript projects
+This  repo consists of  Javascript projects
